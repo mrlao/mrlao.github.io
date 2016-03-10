@@ -1,5 +1,5 @@
 $(document).ready(function(){
   $("div").click(function(){
-    $(this).animate({padding-top: +50px});
+    $(this).animate({padding-top: "+50px"});
   });
 });
