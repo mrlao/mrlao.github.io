@@ -1,5 +1,5 @@
 $(document).ready(function(){
   $("div").click(function(){
-    $(this).fadeOut("slow");
+    $(this).animate({height +50px});
   });
 });
