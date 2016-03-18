@@ -1,0 +1,56 @@
+/*Palette at http://paletton.com/palette.php?uid=14p0u0k18O17rzm4NFO2nx-35tf */
+
+.navbar {
+	padding-left: 50px;
+	padding-right: 100px;
+	margin-top: 20px;
+	}
+
+h2 {
+	padding-top:15%;
+	color:black;
+	text-shadow: 0px 0px 10px white;
+}
+
+h3, .skills{
+	line-height: 1.5;
+	color:black;
+	text-shadow: 0px 0px 10px white;
+}
+
+h4{
+	line-height: 1.5;
+}
+
+#home, #portfolio, #about {
+	min-height: 800px;
+	background-image: url("https://wallpaperscraft.com/image/river_winter_trees_ice_snow_black_white_84784_2560x1024.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-postion: center;
+	background-attachment: fixed;
+	position: relative;
+	padding-top: 200px;
+	}
+
+#about{
+	min-height: 600px;
+}
+
+.preview-site{
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+.well img:hover{
+	opacity: 0.8;
+	padding: +5px;
+}
+
+.well p {
+	margin-top: 10px;
+}
+
+.skills{
+	font-weight: bold;
+}
