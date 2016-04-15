@@ -1,8 +1,5 @@
-sidebar {
-    color: black;
+.sidebar{
+    background-color: black;
     height: 500px;
-    
-}
-main-content{
-    padding-top: 300px;
+    color: red;
 }
